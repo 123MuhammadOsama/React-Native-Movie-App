@@ -77,6 +77,3 @@ npx expo start
 - `tsconfig.json` - TypeScript configuration
 - `metro.config.js` - Metro bundler configuration
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details
